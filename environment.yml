@@ -19,3 +19,6 @@ dependencies:
   - r-stringr
   - scipy
   - r-caret
+  - r-kernlab
+  - r-randomForest
+  - r-ellipse
